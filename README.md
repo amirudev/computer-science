@@ -37,5 +37,5 @@ Python Crash Course ( Intro CS ) | A1 | Eric Matthes | [Twitter](https://twitter
 # Achievement, Certification and Prestige
 
 | Category | Fields | Title | Institution | Certificate | Validation | Notes |
-| --- | --- | ------ | --- | --- | --- |
+| --- | --- | ------ | --- | --- | --- | --- |
 | Certification | Web Development | Front-End Web Developer Expert | Dicoding Indonesia | [Dicoding](https://www.dicoding.com/certificates/MEPJL3596Z3V) | [Dicoding](https://www.dicoding.com/certificates/MEPJL3596Z3V) | Materials: Mobile First Approaches, Web Accessibility, Javascript Clean Code, Automation Testing with Jasmine and Karma, Web Performance Optimization with Webpack 5 and plugins |
