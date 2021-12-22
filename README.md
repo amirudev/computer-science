@@ -28,13 +28,13 @@ Updated: Dec 23th, 2021 12:00:00AM
 | --- | --- | --- | --- | --------- | --- | --- | --- | --- | 
 | A1 | Intro CS | Introduction To Programming | Python Crash Course 2nd Edition A Hands On, Project Based Introduction To Programming by Eric Matthes | 5 Hours 45 Minutes | Still Learning | 25% | Estimated Completed in 4 days | [cs-a1-python](https://github.com/wahyuamirulloh/cs-a1-python) |
 
-# Teachers
+## Teachers
 
 Courses / Lectures | Course ID | Name | Socials | GitHub
 :-- | :--: | :--: | :--: | :--:
 Python Crash Course ( Intro CS ) | A1 | Eric Matthes | [Twitter](https://twitter.com/ehmatthes) | [ehmatthes](https://github.com/ehmatthes)
 
-# Achievement, Certification and Prestige
+## Achievement, Certification and Prestige
 
 | Category | Fields | Title | Institution | Certificate | Validation | Notes |
 | --- | --- | ------ | --- | --- | --- | --- |
