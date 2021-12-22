@@ -25,7 +25,7 @@ Discord: amirudesu#8605
 Updated: Dec 23th, 2021 12:00:00AM
 
 | ID | Section | Subject | Courses | Duration | Status | Progress | Notes | Repository |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --------- | --- | --- | --- | --- | 
 | A1 | Intro CS | Introduction To Programming | Python Crash Course 2nd Edition A Hands On, Project Based Introduction To Programming by Eric Matthes | 5 Hours 45 Minutes | Still Learning | 25% | Estimated Completed in 4 days | [cs-a1-python](https://github.com/wahyuamirulloh/cs-a1-python) |
 
 # Teachers
@@ -36,6 +36,6 @@ Python Crash Course ( Intro CS ) | A1 | Eric Matthes | [Twitter](https://twitter
 
 # Achievement, Certification and Prestige
 
-Category | Fields | Title | Institution | Certificate | Validation | Notes
-:-- | :--: | :-- | :--: | :--: | :--: 
-Certification | Web Development | Front-End Web Developer Expert | Dicoding Indonesia | [Dicoding](https://www.dicoding.com/certificates/MEPJL3596Z3V) | [Dicoding](https://www.dicoding.com/certificates/MEPJL3596Z3V) | Materials: Mobile First Approaches, Web Accessibility, Javascript Clean Code, Automation Testing with Jasmine and Karma, Web Performance Optimization with Webpack 5 and plugins
+| Category | Fields | Title | Institution | Certificate | Validation | Notes |
+| --- | --- | ------ | --- | --- | --- |
+| Certification | Web Development | Front-End Web Developer Expert | Dicoding Indonesia | [Dicoding](https://www.dicoding.com/certificates/MEPJL3596Z3V) | [Dicoding](https://www.dicoding.com/certificates/MEPJL3596Z3V) | Materials: Mobile First Approaches, Web Accessibility, Javascript Clean Code, Automation Testing with Jasmine and Karma, Web Performance Optimization with Webpack 5 and plugins |
